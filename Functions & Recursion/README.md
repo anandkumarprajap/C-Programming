@@ -1324,4 +1324,3 @@ int solve(int n) {
 }
 ```
 
-ize:,} bytes)")
